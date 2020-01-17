@@ -7,3 +7,5 @@ white
 black
 purple
 gold
+green
+bronze
